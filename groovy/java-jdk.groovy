@@ -1,4 +1,4 @@
-mport hudson.model.JDK
+import hudson.model.JDK
 import hudson.tools.InstallSourceProperty
 import hudson.tools.ZipExtractionInstaller
  
