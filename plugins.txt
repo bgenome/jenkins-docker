@@ -18,14 +18,12 @@ active-directory:latest
 pipeline-input-step:latest
 resource-disposer:latest
 build-timeout:latest
-m2-repo-reaper:latest
 git-client:latest
 copyartifact:latest
 copy-to-slave:latest
 saferestart:latest
 workflow-step-api:latest
 script-security:latest
-dynamicparameter:latest
 bouncycastle-api:latest
 postbuildscript:latest
 workflow-basic-steps:latest
@@ -95,7 +93,6 @@ github-api:latest
 greenballs:latest
 display-url-api:latest
 workflow-support:latest
-scriptler:latest
 workflow-cps-global-lib:latest
 ace-editor:latest
 docker-workflow:latest
