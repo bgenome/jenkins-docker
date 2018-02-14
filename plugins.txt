@@ -45,7 +45,6 @@ job-import-plugin:latest
 workflow-job:latest
 global-build-stats:latest
 artifactdeployer:latest
-scp:latest
 workflow-aggregator:latest
 authentication-tokens:latest
 discard-old-build:latest
