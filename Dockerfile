@@ -1,7 +1,5 @@
 FROM jenkins/jenkins:lts
 
-MAINTAINER Guy Belotzerkovsky (guy.belotzerkovsky@radcom.co.il)
-
 ENV JAVA_OPTS="-Djenkins.install.runSetupWizard=false"
 
 COPY groovy/* /usr/share/jenkins/ref/init.groovy.d/
